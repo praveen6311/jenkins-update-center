@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.jenkins-ci</groupId>
+  <artifactId>update-center2</artifactId>
+  <version>2.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20180706.102538</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20180706102538</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>2.1-20180706.102538-1</value>
+        <updated>20180706102538</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>2.1-20180706.102538-1</value>
+        <updated>20180706102538</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>bin</classifier>
+        <extension>zip</extension>
+        <value>2.1-20180706.102538-1</value>
+        <updated>20180706102538</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
